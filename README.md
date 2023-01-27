@@ -1,1 +1,1 @@
-# Hotel-Mnagement-System
+Hotel Management System that allows customers book rooms, taking into account check in and check out times and room specifications. It also allows the administrator add, delete and list rooms as well as generate a report of existing rooms in the system to a file.
